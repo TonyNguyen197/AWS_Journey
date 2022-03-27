@@ -1,5 +1,5 @@
 # MODULE 1: BACKUP AND RESTORE
-- [**Đọc nội dung bài lab và làm theo step by step**](#a) (*In progress*)
+- [**Đọc nội dung bài lab và làm theo step by step**](*In progress*)
   - [**Đọc sơ qua các nội dung của bài lab**](#a1)
   - [**Làm lab step by step**](#a2)
 - [**Nghiên cứu chi tiết nội dung bài lab và tự làm lại bài lab dựa trên yêu cầu**](#b)
