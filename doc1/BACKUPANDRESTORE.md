@@ -22,4 +22,4 @@ Bài lab này sẽ mất khoảng 90 phút để hoàn thành
 1.1 Click [S3](https://console.aws.amazon.com/s3/home?region=us-east-1#/){:target="\_blank"} để chuyển hướng đến trang chủ S3
 1.2 Click vào mục **Block Public Access settings for this account**
 
-![Đây là ảnh](/doc1/pictures/pic1_2.png?width=90pc)
+![Đây là ảnh](/pictures/pic1_2.png)
